@@ -1,11 +1,7 @@
-I understand. Here’s the formatted README file that you can copy and paste directly into your code editor for GitHub:
-
----
-
+# PHP MySQL Quiz App
 # Quiz App
 
-A simple quiz application built with PHP and MySQL.
-
+A simple quiz application built with PHP and MySQL, providing user registration, login, and quiz functionality.
 ## Features
 
 - User Registration
