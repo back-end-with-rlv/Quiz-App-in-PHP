@@ -19,23 +19,11 @@ A simple quiz application built with PHP and MySQL, providing user registration,
 
 ## Installation
 
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/quiz-app.git
-   cd quiz-app
-   ```
-
-2. **Create a database:**
+1. **Create a database:**
    ```sql
    CREATE DATABASE quiz_db;
    ```
-
-3. **Import the database schema:**
-   ```sh
-   mysql -u root -p quiz_db < database/quiz_db.sql
-   ```
-
-4. **Update database connection settings:**
+2. **Update database connection settings:**
    Edit the `database/db.php` file with your database credentials:
    ```php
    <?php
@@ -46,7 +34,7 @@ A simple quiz application built with PHP and MySQL, providing user registration,
    ?>
    ```
 
-5. **Start the web server:**
+3. **Start the web server:**
    Ensure your web server is running and pointing to the `quiz-app` directory.
 
 ## File Structure
